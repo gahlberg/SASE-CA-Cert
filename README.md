@@ -2,8 +2,11 @@
     
 ## For utilizing SSL Inspection on SASE Account 361633
    * **Download this repo locally to your SASE Endpoint:**
+      * #Click code button and Download ZIP#
+      
    
    ### 1. Directions for Chrome:
+
       * **Go to Settings**
       * **Go to Privacy and security**
       * **Go to Security**
@@ -14,6 +17,7 @@
       * **and place in the Trusted Root Certificate Authorities (store)**
    
    ### 2. Directions for Firefox:
+
       * **Go to Settings**
       * **Go to Privacy & security**
       * **Scroll down to Certificates**
