@@ -5,8 +5,8 @@
       - Click code button and Download ZIP
       
    
-   ### 1. Directions for Chrome:
-      * #### Go to Settings
+   ### 1. Directions for Chrome: ###
+      * Go to Settings
       * #### Go to Privacy and security
       * **Go to Security**
       * **Scroll down to Manage certificates**
