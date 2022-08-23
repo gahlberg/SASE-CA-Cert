@@ -1,11 +1,11 @@
-## CA Certificate for endpoints utilizing SSL Inspection on SASE Account 361633
+## CA Certificate for SASE endpoints 
     
-### Download this repo locally to SASE Endpoint
+### For utilizing SSL Inspection on SASE Account 361633
    * **Go to Security settings in Chrome**
    * **iperf3 for Load Balance testing.**
    * **FIT for application steering testing.** 
 
-   ### 1. Ekiga Softphone Quick Install Steps (*currently not supported on Ubuntu 20.04):
+   ### 1. Download this repo locally to SASE Endpoint:
         sudo apt update
         sudo apt-get install ekiga -y
    - ##### Using RDP or console from ESXi or KVM, connect to both branch Ubuntu VMs, let's use branch1 and branch2 as an example.  
