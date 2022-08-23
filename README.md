@@ -2,13 +2,13 @@
     
 ## For utilizing SSL Inspection on SASE Account 361633
    * **Download this repo locally to your SASE Endpoint:**
-      * Click code button and Download ZIP
+      - Click code button and Download ZIP
       
    
    ### 1. Directions for Chrome:
 
-      * **Go to Settings**
-      * **Go to Privacy and security**
+      * #### Go to Settings
+      * #### Go to Privacy and security
       * **Go to Security**
       * **Scroll down to Manage certificates**
       * **(if using Certificate stores on Windows) click the Import Button**
