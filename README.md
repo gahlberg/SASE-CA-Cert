@@ -6,7 +6,6 @@
       
    
    ### 1. Directions for Chrome:
-
       * #### Go to Settings
       * #### Go to Privacy and security
       * **Go to Security**
